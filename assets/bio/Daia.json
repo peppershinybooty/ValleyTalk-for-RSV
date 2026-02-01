@@ -1,0 +1,42 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Daia",
+            "Entries": {
+                "Biography": "Daia is a mysterious ninja who is a member of the Cult of the Lady with the Red Tail. She is unusually sociable and flirty, considering her occupation. She also has quite a bit of knowledge in scientific fields such as geology.\n\nShe is an unlockable marriage candidate, meaning she cannot be befriended or married until after the Spirit Realm has been saved.\n\nDaia is stationed at the Ninja House along with Jio and Kiwi. Daia often teases Jio because of his rigid and overly serious personality. Daia acts as a scout for her team; while the other members of the cult are secretive, she openly interacts with other villagers.",
+                "Relationships": {
+                    "Jio": {
+                        "id": "Jio",
+                        "Heading": "Jio",
+                        "Description": "Daia often teases Jio because of his rigid and overly serious personality."
+                    },
+                    "Kiwi": {
+                        "id": "Kiwi",
+                        "Heading": "Kiwi",
+                        "Description": "A fellow member of the Cult stationed at the Ninja House."
+                    },
+                    "Belinda": {
+                        "id": "Belinda",
+                        "Heading": "Belinda",
+                        "Description": "The leader of the Cult of the Lady with the Red Tail."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "Cult of the Lady with the Red Tail",
+                    "Ninja House",
+                    "geology",
+                    "The Ridge",
+                    "scouting missions"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": true,
+                "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

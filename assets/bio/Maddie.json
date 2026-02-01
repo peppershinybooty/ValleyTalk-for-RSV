@@ -1,0 +1,53 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Maddie",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Maddison Pickens is a lab assistant living in Ridgeside Village. She works at the Water Research Facility & Laboratory under Mr. Aguar. She comes off as very serious and is easily irritated. However, this is mostly a defense mechanism and she is actually very sweet and loves cute things. She is one of twenty-two characters available to marry.\n\n**Background:**\n\nMaddie works as a lab assistant to Mr. Aguar at the Water Research Facility & Laboratory. She spends a large portion of her time there and is serious about getting her work done. Her 8 heart event reveals the reason why she pushes everyone away.",
+        "Relationships": {
+          "Mr. Aguar": {
+            "id": "Mr. Aguar",
+            "Heading": "Mr. Aguar",
+            "Description": "Maddie works as a lab assistant to Mr. Aguar at the Water Research Facility & Laboratory."
+          }
+        },
+        "Traits": {
+          "Serious and Irritable": {
+            "id": "Serious and Irritable",
+            "Heading": "Serious and Irritable",
+            "Description": "Maddie comes off as very serious and is easily irritated. However, this is mostly a defense mechanism."
+          },
+          "Sweet and Loves Cute Things": {
+            "id": "Sweet and Loves Cute Things",
+            "Heading": "Sweet and Loves Cute Things",
+            "Description": "Despite her serious exterior, Maddie is actually very sweet and loves cute things."
+          },
+          "Dedicated Worker": {
+            "id": "Dedicated Worker",
+            "Heading": "Dedicated Worker",
+            "Description": "Maddie spends a large portion of her time at the Water Research Facility & Laboratory and is serious about getting her work done."
+          },
+          "Gifts": {
+            "id": "Gifts",
+            "Heading": "Gifts",
+            "Description": "Maddie's favorite gifts include Salad, Blackberry Cobbler, Coral, Nautilus Fossil, Autumnal Serenity, Fairytale Lionfish, Forage Souffle, Highland Blueberry Pie, Highland Chard, Mountain Hokkaido, Northern Limequat, Pink Frosted Sprinkled Doughnut, Ridge Fruity Plate, Ridgeside Monkshood, Ridge Mosaic Cake, and Tropic Mango Cake. She likes Holly, Ridge Wild Apple, and Violet Devil's Claw."
+          }
+        },
+        "BiographyEnd": "**Life in Ridgeside Village:**\n\nMaddie's schedule revolves around her work at the Water Research Facility & Laboratory. She works from 9:00 AM, takes breaks at different locations depending on the season (bench south of Lab in Spring, east end of Lab bridge in Summer and Winter, Pika's Restaurant in Fall, The Ridge when raining), returns to work at 5:00 PM, and heads home at 7:00 PM. On Sundays she visits The Mountain. On the 10th and 20th of each month, she visits The Beach. After the Community Greenhouse is unlocked, she visits it on Monday mornings before work.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "lab work",
+          "Mr. Aguar",
+          "water research",
+          "cute things"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

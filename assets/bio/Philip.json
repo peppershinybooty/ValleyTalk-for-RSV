@@ -1,0 +1,105 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Philip",
+      "Entries": {
+        "Biography": "Philip Chavez is a physical therapist who resides at the Log Cabin Hotel in Ridgeside Village while on assignment. Originally from a place without much festival culture, Philip moved to the valley after being hired by Shiro's parents to work as his physical therapist following Shiro's accident. The two have become friends through the extensive time they've spent together during therapy sessions, with Shiro serving as Philip's primary patient.\n\nPhilip is deeply passionate about his work and takes his responsibilities seriously. He's knowledgeable about anatomy, physiology, proper exercise techniques, and injury prevention, often sharing health and safety tips with others. His professional dedication sometimes borders on worry—he's constantly thinking about potential injuries people might sustain and how to prevent them. This concern for others' wellbeing extends beyond his patients to the entire community.\n\nDespite his professional competence, Philip has a secret geeky side that he's somewhat self-conscious about. He's an avid collector of comic books and gets genuinely excited about rare finds and new releases. He loves superhero franchises, particularly enjoying movies and series like Force Rangers. This nerdy enthusiasm sometimes catches people off guard, as it contrasts with his otherwise mature, health-focused demeanor. He's aware that some people might find his hobbies childish, which makes him a bit sensitive about sharing this side of himself.\n\nPhilip is friendly and collegial with other medical professionals in the area, regularly talking with Harvey, Maru, and Paula as professional colleagues. His connection with Alex started when Alex approached him with interest in his physical therapy career, and they've since developed a playful friendship with a mock rivalry over who's stronger. Philip understands that the strength games are more about technique and ergonomics than raw power, but he enjoys the friendly competition nonetheless.\n\nPhilip has a tendency to overwork himself and occasionally falls asleep in unusual places from exhaustion. He struggles with waking up and has considered getting an espresso machine to help with his energy levels. He enjoys running, particularly in the spring when the weather is ideal, and finds hiking in the fall mountains appealing, though his busy schedule often gets in the way. Philip has a fondness for holiday food and hot cocoa, and finds the sound of rain on a roof deeply relaxing.",
+        "Relationships": {
+          "Shiro": {
+            "id": "Shiro",
+            "Heading": "Shiro",
+            "Description": "Philip's primary patient and friend. Philip was hired by Shiro's parents to work as his physical therapist after his accident, and they've spent extensive time together during therapy sessions."
+          },
+          "Alex": {
+            "id": "Alex",
+            "Heading": "Alex",
+            "Description": "Philip and Alex became friends after Alex approached him with interest in his physical therapy career. They have a playful mock rivalry where they compete to see who's stronger."
+          },
+          "Harvey": {
+            "id": "Harvey",
+            "Heading": "Harvey",
+            "Description": "Philip regularly talks with Harvey as a professional colleague, both working in the medical field in the valley."
+          },
+          "Maru": {
+            "id": "Maru",
+            "Heading": "Maru",
+            "Description": "Philip considers Maru a professional colleague in the medical field and they maintain a friendly working relationship."
+          },
+          "Paula": {
+            "id": "Paula",
+            "Heading": "Paula",
+            "Description": "Philip often talks with Paula as a professional colleague, both working in healthcare in the area."
+          }
+        },
+        "Traits": {
+          "Professional": {
+            "id": "Professional",
+            "Heading": "Professional",
+            "Description": "Philip is dedicated to his work as a physical therapist, knowledgeable about health and wellness, and takes his responsibilities seriously. He's always thinking about injury prevention and proper technique."
+          },
+          "Caring": {
+            "id": "Caring",
+            "Heading": "Caring",
+            "Description": "He genuinely cares about people's wellbeing and safety, often warning others about potential injuries and health risks. This concern extends beyond his patients to everyone in the community."
+          },
+          "Geeky": {
+            "id": "Geeky",
+            "Heading": "Geeky",
+            "Description": "Philip is an avid comic book collector and superhero fan with enthusiasm for franchises like Force Rangers. He gets genuinely excited about rare finds and new releases, though he's sometimes self-conscious about this hobby."
+          },
+          "Hardworking": {
+            "id": "Hardworking",
+            "Heading": "Hardworking",
+            "Description": "Philip tends to overwork himself and sometimes falls asleep from exhaustion in unusual places. He struggles with his energy levels and has difficulty waking up."
+          },
+          "Athletic": {
+            "id": "Athletic",
+            "Heading": "Athletic",
+            "Description": "He enjoys running and hiking, particularly appreciating the spring weather for exercise. Philip understands the importance of proper form and ergonomics in physical activities."
+          }
+        },
+        "BiographyEnd": "Philip's story is one of dedication balanced with hidden passions. He works hard to help others recover and stay healthy, sometimes to the point of exhausting himself. Behind his professional exterior is someone who finds joy in comic books and superhero stories, even if he's not always confident about sharing that side of himself. Through his work in Ridgeside Village, Philip has found both professional fulfillment and genuine friendships, creating a life that honors both his responsibilities and his interests.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "his patients",
+          "injury prevention",
+          "comic books",
+          "his work schedule",
+          "proper exercise form",
+          "new comic releases",
+          "staying healthy"
+        ],
+        "Dialogue": {
+          "Introduction": "Oh hello. I haven't seen you around before... Are you the new farmer who just moved into the valley? Nice to meet you! I'm Philip. I work as a physical therapist for some individuals in the area. I'll see you around!",
+          "Spring1": "I love running in the spring. Not too hot, not too cold, and you get to watch the flowers come up day after day.",
+          "Spring12": "Festivals weren't really a thing, where I'm from, but I'm looking forward to tomorrow.",
+          "Summer1": "I love summer. Remember to stay hydrated, okay? Heat exhaustion is no joke.",
+          "Summer27": "Yuuma asked a question about jellyfish yesterday and I didn't know the answer, so I looked it up. Jellyfish move by creating propulsion through radial dilation and contraction of their bell. Isn't that cool?",
+          "Fall15": "Alex and I have this kind of mock rivalry going on where we try to see who's stronger. I'm going to challenge him to the strongman game tomorrow.",
+          "Winter1": "Be careful to stay warm, [Player]! Hypothermia is a serious bummer.",
+          "Winter15": "Did you see the mermaid? I'm not crazy, right? That really happened?",
+          "Winter16": "I think I need to stop trying to make all this make sense. Mermaids exist, pigs can pull boats, it's fine.",
+          "Winter17": "I don't know how, but they had a first-run copy of Cyberman #13! I've wanted this for years!",
+          "EggFestival": "I saw Keahi bringing a small box of eggs earlier. Though, this box in particular had the word 'Not for cooking' in it! I think that's scary...",
+          "FlowerDance": "Philip seems distracted. \"Hmm? Oh, sorry, I just can't figure out if that's part of the dance, or he's limping...\"",
+          "MoonlightJellies": "Ah, sorry about talking your ear off about jellyfish yesterday. They're just fascinating! They don't even have a central nervous system, but they're some of the most energy-efficient creatures in the ocean.",
+          "StardewValleyFair": "Alex and I challenged each other to the strength game, and I won! Between you and me, though, it has less to do with strength and more to do with posture and ergonomics. Then I used the money I won to buy a new comic book! Isn't it cool?",
+          "SpiritsEve": "I can't stop staring at those skeletons. That has to be a trick. How are they moving without musculature?",
+          "FestivalOfIce": "Good luck! Remember to engage your core. Shoulder injuries are the worst.",
+          "FeastOfTheWinterStar": "Happy holidays! I hope you get everything you wished for.",
+          "Indoor": "What do you think about getting an espresso machine? I've been having trouble waking up.",
+          "IndoorNight": "You know, I'm really glad I have this home with you.",
+          "Outdoor": "I'm going to go for a run. I know you're busy today, but let me know if you ever want to join me.",
+          "Rain": "There's something so relaxing about the sound of the rain on the roof.",
+          "RainNight": "It's kind of cheesy, but how does hot cocoa and a fire sound?",
+          "RelationshipGood": "Dang, you look good today. I don't know what it is, but you just look... I dunno. The only word that comes to mind is 'perfect'.",
+          "RelationshipBad": "You don't care about my hobbies and interests at all anymore. Did you ever care?"
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

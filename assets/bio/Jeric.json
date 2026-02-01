@@ -1,0 +1,88 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jeric",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Jericho 'Jeric' Kayden is the owner and operator of Blooming Hill Farm in Ridgeside Village, where he runs a shop selling farm supplies and produce. Born and raised on the streets of Zuzu City, Jeric was found as a young boy by the Governor, who adopted him and gave him a chance at a better life. After becoming an adult, Jeric was given a patch of land in Ridgeside Village to become self-sufficient, an opportunity for which he remains deeply grateful.\n\nJeric is known for his confident, charismatic personality and his taste for fashion. He takes pride in creating high-quality garments and always aims to look his best. Self-described as having a playboy charm, Jeric is openly flirtatious and enjoys the company of attractive people, though beneath his smooth exterior lies genuine warmth and loyalty to those he cares about.\n\nWhile Jeric runs a successful farm business, he approaches it with a competitive spirit. He's constantly comparing his farm's success to others in the valley, viewing farming as a friendly competition where he strives to prove himself the best. Despite his playful rivalry, there's no malice in his competitiveness—it's simply how he motivates himself to work harder and achieve more.\n\nJeric grew up alongside Bryle, the Governor's bodyguard, who he views almost as an older brother. Bryle regularly visits Jeric's farm, and their bond remains strong despite Jeric's independence. The Governor's support and guidance shaped much of who Jeric became, and he works hard to make his adoptive father proud.\n\nJeric shares his farm with his beloved horse Turbo, who he occasionally lets children ride at festivals. He's generally friendly with the village residents and enjoys participating in community events, always making sure to dress impressively for the occasions. His shop at Blooming Hill Farm is a popular stop for those needing quality farm supplies, and while Jeric takes his business seriously, he never loses his easygoing, charming demeanor.",
+        "Relationships": {
+          "Governor": {
+            "id": "Governor",
+            "Heading": "Governor",
+            "Description": "Jeric's adoptive father who found him on the streets of Zuzu City as a young boy. The Governor gave Jeric the land for Blooming Hill Farm to help him become self-sufficient. Jeric is deeply grateful and works hard to make him proud."
+          },
+          "Bryle": {
+            "id": "Bryle",
+            "Heading": "Bryle",
+            "Description": "The Governor's bodyguard who Jeric grew up with and views almost as an older brother. Bryle regularly visits Jeric's farm to check in on him, and they maintain a close bond."
+          }
+        },
+        "Traits": {
+          "Charismatic": {
+            "id": "Charismatic",
+            "Heading": "Charismatic",
+            "Description": "Jeric is confident, smooth-talking, and openly flirtatious. He has a playboy charm and enjoys making people feel attractive and appreciated."
+          },
+          "Fashionable": {
+            "id": "Fashionable",
+            "Heading": "Fashionable",
+            "Description": "He takes great pride in his appearance and fashion sense, creating high-quality garments and always dressing to impress. He loves showing off his outfits at festivals and events."
+          },
+          "Competitive": {
+            "id": "Competitive",
+            "Heading": "Competitive",
+            "Description": "Jeric approaches farming and business with a competitive spirit, constantly comparing his farm's success to others in the valley and striving to be the best."
+          },
+          "Grateful": {
+            "id": "Grateful",
+            "Heading": "Grateful",
+            "Description": "Despite his confident exterior, Jeric is deeply grateful for the opportunities the Governor gave him and works hard to prove he was worth the investment."
+          },
+          "Business-minded": {
+            "id": "Business-minded",
+            "Heading": "Business-minded",
+            "Description": "He runs Blooming Hill Farm's shop with dedication and takes pride in offering quality products. He's savvy about saving money and making profitable business decisions."
+          }
+        },
+        "BiographyEnd": "Jeric's story is one of transformation and gratitude. From his difficult start on the streets of Zuzu City to becoming a successful farm owner in Ridgeside Village, he's proven himself capable and determined. His competitive nature drives him to constant improvement, while his charm and fashion sense make him a memorable presence in the community. Through it all, Jeric remembers where he came from and works to honor the second chance he was given.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "fashion and garments",
+          "his horse Turbo",
+          "farm competition",
+          "the Governor",
+          "upcoming festivals",
+          "his shop inventory",
+          "looking his best"
+        ],
+        "Dialogue": {
+          "Introduction": "Oh, hey there! You're new here, right? Oh! You're the new farmer, huh? My name's Jeric. [Player], is it? Well, if you ever need some farm supplies, you can always visit my shop. See ya!",
+          "Spring12": "Lewis came by the other day and bought some chicken eggs. I forgot that tomorrow is the Egg Festival. Well, I'm glad I can help in the festivities.",
+          "Spring23": "Hmm....I wonder if I have a good outfit for tomorrow? Oh, hey there, [Player]! Are you dressing up for the Flower Dance? I bet someone as good looking as you doesn't need to think too much about it, huh?",
+          "Summer10": "I have to pick which of my crops to bring tomorrow for the soup. I want it to taste amazing... Gotta do good for the governor after the help he's given me.",
+          "Summer27": "How cool would it be if you could capture the jellyfish and put them in tanks to use as lamps? That'd be pretty brutal though. Best to just enjoy the show.",
+          "Fall15": "One of these years, Lewis will figure out how to fit more displays in so I can actually compete.",
+          "Fall26": "I put together my own costume for tomorrow. I can't wait to show it off! Well it's the same as last year. So it's more of a refurbishment. You'll see it tomorrow.",
+          "Winter7": "I don't really fish, but I'll definitely be there tomorrow. Gotta admire the scenery, you know?",
+          "Winter17": "You should go tell the art dealer you can model for him sometime. There's no way he'd turn a beauty like you down.",
+          "EggFestival": "Are you going to participate in the egg hunt, [Player]? Look out for Keahi, he's super fast! He has to be, to get away with his pranks.",
+          "FlowerDance": "Daaang, looking good.",
+          "Luau": "You are looking fan-tas-tic today, [Player]. You don't mind if I keep you company while we wait for the soup to be ready, do you?",
+          "MoonlightJellies": "Hey [Player], want to watch the jellyfish with me? Hey, can you blame a guy for wanting to be surrounded by gorgeous things on all sides?",
+          "StardewValleyFair": "I think I'll close up after this kid. Keahi is scaring me! Who knows what he'll do if I don't let him ride Turbo! Anyway, what did you choose for your display, [Player]? Oh, really? Nice call!",
+          "SpiritsEve": "What do you think? Pretty slick, huh? Gonna make all the honeys come runnin'.",
+          "FestivalOfIce": "Looking good, [Player]. Can't lie, I love a cutie all bundled up.",
+          "Indoor": "Looks like it'll be a good day, huh? If there's anything I can do to help, just let me know! I'm here for you.",
+          "IndoorNight": "I picked up dinner from Pika's. Let's make it a date night, yeah?",
+          "Outdoor": "I'm heading into town to check how the other farms are doing, make sure we're still the best. Nothing wrong with a bit of friendly competition! Want to come with me?",
+          "Rain": "Oh hey, did you sleep well? The rain woke me up early so I whipped up some breakfast for you.",
+          "RainNight": "The rain gave me a lot of free time, but I still managed to accomplish a bit. Hey, wanna grab a bite somewhere?"
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

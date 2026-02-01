@@ -1,0 +1,91 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Corine",
+      "Entries": {
+        "Biography": "Corine Elenela Daniels is a kind-hearted waitress at Pika's Restaurant in Ridgeside Village who dreams of finding her true calling in life. She lives with her father Ezekiel at the Daniels Residence, working at the restaurant and helping Gus at the Stardrop Saloon once a week. Despite her cheerful demeanor and dedication, Corine feels uncertain about her future path.\n\nHer mother Helen passed away when she was young, leaving her to care for her overprotective father. While Ezekiel served in the army, Corine was looked after by his friend Richard, fostering a sisterly bond with Richard's granddaughter Ysabelle that continues today.\n\nCorine's life took an unexpected turn when she began training with Jio at the Ninja House, learning combat and ki manipulation. This revealed hidden strength that contrasts sharply with her gentle waitress persona. She trains on Thursdays and occasionally goes on monster-hunting missions, balancing her secret warrior side with her caring nature.\n\nCorine's personality is defined by kindness and her desire to help others. She loves bringing people together at festivals, appreciates simple pleasures like hot cocoa and good food, and remains optimistic while searching for where she truly belongs.",
+        "Relationships": {
+          "Ezekiel": {
+            "id": "Ezekiel",
+            "Heading": "Ezekiel (Father)",
+            "Description": "Corine loves and cares for her father despite his overprotective nature and grumpy demeanor. She looks after him and tolerates his complaints."
+          },
+          "Richard": {
+            "id": "Richard",
+            "Heading": "Richard",
+            "Description": "Richard looked after Corine while her father was in the army, becoming a paternal figure to her."
+          },
+          "Ysabelle": {
+            "id": "Ysabelle",
+            "Heading": "Ysabelle",
+            "Description": "Ysabelle is like a sister to Corine. They grew up together and remain very close friends."
+          },
+          "Pika": {
+            "id": "Pika",
+            "Heading": "Pika",
+            "Description": "Pika is Corine's boss at the restaurant and treats her generously. She admires his cooking, especially his barbecue."
+          },
+          "Gus": {
+            "id": "Gus",
+            "Heading": "Gus",
+            "Description": "Corine helps Gus at the Stardrop Saloon once a week on Fridays."
+          },
+          "Jio": {
+            "id": "Jio",
+            "Heading": "Jio",
+            "Description": "Jio trains Corine in combat and ki manipulation at the Ninja House, helping her discover hidden strengths."
+          }
+        },
+        "Traits": {
+          "Caring": {
+            "id": "Caring",
+            "Heading": "Caring",
+            "Description": "Corine is deeply caring and kind, always putting others' needs first and looking after those around her."
+          },
+          "SearchingForPurpose": {
+            "id": "SearchingForPurpose",
+            "Heading": "Searching for Purpose",
+            "Description": "Despite working as a waitress, Corine dreams of finding her true calling and purpose in life."
+          },
+          "Hardworking": {
+            "id": "Hardworking",
+            "Heading": "Hardworking",
+            "Description": "She works diligently at Pika's Restaurant and helps at the Stardrop Saloon, always giving her best effort."
+          },
+          "Social": {
+            "id": "Social",
+            "Heading": "Social",
+            "Description": "Corine loves bringing people together and values festivals as opportunities to see all her friends in one place."
+          },
+          "HiddenStrength": {
+            "id": "HiddenStrength",
+            "Heading": "Hidden Strength",
+            "Description": "Beneath her gentle exterior, Corine trains in combat with Jio and goes on monster-hunting missions."
+          },
+          "Optimistic": {
+            "id": "Optimistic",
+            "Heading": "Optimistic",
+            "Description": "Despite uncertainties about her future, Corine maintains a positive outlook and cheerful demeanor."
+          }
+        },
+        "BiographyEnd": "Corine's journey is one of self-discovery and hidden depths. While she serves customers with a smile and cares for her father, she secretly trains as a warrior and searches for her true purpose. Through her relationships with Ysabelle, Pika, Jio, and others, Corine is discovering that perhaps her calling involves combining her caring nature with her newfound warrior skills.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "finding her calling",
+          "her father Ezekiel",
+          "work at Pika's Restaurant",
+          "Ysabelle",
+          "training with Jio",
+          "festivals",
+          "food and cooking",
+          "helping others"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

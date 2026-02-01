@@ -1,0 +1,107 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/GameSummary",
+        "TargetField": [ "Locations", "Entries" ],
+        "Entries": {
+            "RidgesideVillage": {
+                "id": "RidgesideVillage",
+                "Region": "Mountain Area",
+                "Name": "Ridgeside Village",
+                "Description": "The main village area, accessible via the cable car, containing most residences and public buildings."
+            },
+            "TheRidge": {
+                "id": "TheRidge",
+                "Region": "The Ridge",
+                "Name": "The Ridge",
+                "Description": "A higher mountainous area including the Ridge Forest, Ridge Falls, Ridge Pond, Spirit Realm, and Summit Farm."
+            },
+            "TheCliff": {
+                "id": "TheCliff",
+                "Region": "The Cliff",
+                "Name": "The Cliff",
+                "Description": "A high vantage point containing the Cable Car Station and Electrician's House."
+            },
+            "HikeTrail": {
+                "id": "HikeTrail",
+                "Region": "Hike Trail",
+                "Name": "Hike Trail",
+                "Description": "A path leading to the Abandoned House and the Phantom Greenhouse."
+            },
+            "NightingaleOrchard": {
+                "id": "NightingaleOrchard",
+                "Region": "Ridgeside Village",
+                "Name": "Nightingale Orchard",
+                "Description": "The farm and residence of the Liden and Yojeong families, run by Alissa and her family."
+            },
+            "BloomingHillFarm": {
+                "id": "BloomingHillFarm",
+                "Region": "Ridgeside Village",
+                "Name": "Blooming Hill Farm",
+                "Description": "Jeric's farm and residence, located in the north-west of the village."
+            },
+            "HeapsConvenienceStore": {
+                "id": "HeapsConvenienceStore",
+                "Region": "Ridgeside Village",
+                "Name": "Heaps Convenience Store",
+                "Description": "The local convenience store, where Lorenzo, Anton, and Kiarra work."
+            },
+            "LogCabinHotel": {
+                "id": "LogCabinHotel",
+                "Region": "Ridgeside Village",
+                "Name": "Log Cabin Hotel",
+                "Description": "A large public hotel, home to several residents, with a pastry shop and event services."
+            },
+            "RSVAdmin": {
+                "id": "RSVAdmin",
+                "Region": "Ridgeside Village",
+                "Name": "Ridgeside Village Admin",
+                "Description": "The office for the village administration, where Lenny works."
+            },
+            "RidgesideClinic": {
+                "id": "RidgesideClinic",
+                "Region": "Ridgeside Village",
+                "Name": "Ridgeside Clinic",
+                "Description": "The local clinic, where Paula works."
+            },
+            "PikasRestaurant": {
+                "id": "PikasRestaurant",
+                "Region": "Ridgeside Village",
+                "Name": "Pika's Restaurant",
+                "Description": "The village restaurant, owned and run by Pika."
+            },
+            "WaterResearchFacility": {
+                "id": "WaterResearchFacility",
+                "Region": "River Area",
+                "Name": "Water Research Facility",
+                "Description": "A facility and laboratory near the river, where Mr. Aguar works."
+            },
+            "AmethyneMansion": {
+                "id": "AmethyneMansion",
+                "Region": "Ridgeside Village",
+                "Name": "Amethyne Mansion",
+                "Description": "The large residence of Maive, Sonny, Irene, Zayne, and their family."
+            },
+            "NinjaHouse": {
+                "id": "NinjaHouse",
+                "Region": "The Ridge",
+                "Name": "Ninja House",
+                "Description": "A hidden residence on The Ridge."
+            },
+            "UndergroundCave": {
+                "id": "UndergroundCave",
+                "Region": "Ridgeside Village",
+                "Name": "Underground Cave",
+                "Description": "A subterranean location within the village."
+            },
+            "SpiritRealm": {
+                "id": "SpiritRealm",
+                "Region": "The Ridge",
+                "Name": "Spirit Realm",
+                "Description": "A mystical area located on The Ridge."
+            }
+        }
+       }
+    ]
+}

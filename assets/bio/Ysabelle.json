@@ -1,0 +1,42 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Ysabelle",
+            "Entries": {
+                "Biography": "Ysabelle is a villager residing in Ridgeside Village. She is a former ballerina who now finds herself working as a receptionist at the Log Cabin Hotel. She is one of twenty-two characters available to marry.\n\nYsabelle is the granddaughter of Richard, who owns and operates the Log Cabin Hotel. After she left home and ended her dancing career, she came to him for support and he was happy to give it to her so long as she helped contribute to the business. She is very grateful to him and wants to make him proud.\n\nYsabelle's backstory reveals that when she was younger she had an emotional breakdown over the pressure her parents had over her for her ballet dancing.",
+                "Relationships": {
+                    "Richard": {
+                        "id": "Richard",
+                        "Heading": "Richard",
+                        "Description": "Ysabelle's grandfather who owns and operates the Log Cabin Hotel. She came to him for support after leaving home and ending her dancing career."
+                    },
+                    "Corine": {
+                        "id": "Corine",
+                        "Heading": "Corine",
+                        "Description": "Ysabelle's best friend. They were practically raised together by Richard during their childhoods."
+                    },
+                    "Shane": {
+                        "id": "Shane",
+                        "Heading": "Shane",
+                        "Description": "Shane recognizes Ysabelle as a famous child ballerina he saw on TV."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "Ysabelle is designed to be Danish (like her grandfather Richard) and Argentinian.",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "Log Cabin Hotel",
+                    "reception work",
+                    "ballet",
+                    "Richard",
+                    "Corine"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

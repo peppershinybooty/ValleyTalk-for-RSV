@@ -1,0 +1,57 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/Bios/Bert",
+        "Entries": {
+            "Biography": "Bert is a kind, non-marriageable villager who co-runs the Nightingale Orchard with his wife, Olga, and their family. He is defined by his **happy-go-lucky and overly optimistic attitude**, which often makes him the less serious and more playful parent in the family, balancing out Olga's more grounded approach.\n\n**Interests & Focus**\n* The daily work and light-hearted side of farm life at Nightingale Orchard.\n* Enjoying simple pleasures and maintaining a cheerful atmosphere.\n* Acting as the fun-loving figure for his daughter, Trinnie, and niece, Alissa.\n\n**Background & Personality**\nBert and Olga stepped up to raise his niece, Alissa, when her parents were traveling. While Bert is deeply committed, his personality leads him to often defer the heavy, administrative, or serious parts of parenting and farm management to Olga. This dynamic is his unique character flaw: his overwhelming optimism sometimes makes him neglect the necessary seriousness of his responsibilities. He views life and challenges with a persistent, almost childlike enthusiasm.\n\n**Significant Game Events**\n* His events often involve light-hearted scenarios or reflections on the simpler joys of farm life.\n* He is frequently seen trying to cheer up or reassure other villagers.\n* His dialogue sometimes reveals a lack of depth or awareness regarding complex situations, preferring to focus on the positive outcome.",
+            "Relationships": {
+              "Olga": {
+                "id": "Olga",
+                "Heading": "Wife/Partner",
+                "Description": "Bert's wife. She is the more grounded and responsible half of the couple, often taking the lead in serious matters to balance Bert's optimism."
+              },
+              "Alissa": {
+                "id": "Alissa",
+                "Heading": "Niece/Surrogate Daughter",
+                "Description": "His niece whom he and Olga raised. He provides the affectionate, fun-loving influence in her life."
+              },
+              "Trinnie": {
+                "id": "Trinnie",
+                "Heading": "Daughter",
+                "Description": "His daughter, whom he raises. He acts as the enthusiastic, playful parent."
+              },
+              "Kimpoi": {
+                "id": "Kimpoi",
+                "Heading": "Brother-in-law",
+                "Description": "Alissa's father. Bert's relationship with him is centered around their shared family and the orchard."
+              }
+            },
+            "Traits": {
+              "Optimistic": {
+                "id": "Optimistic",
+                "Heading": "Overly-Optimistic",
+                "Description": "His defining trait is a constant, sometimes unrealistic, cheerful disposition that contrasts with reality."
+              },
+              "Playful": {
+                "id": "Playful",
+                "Heading": "Playful",
+                "Description": "He is the fun and affectionate figure for his family."
+              },
+              "Simple": {
+                "id": "Simple",
+                "Heading": "Simple",
+                "Description": "He prefers simple explanations and tends to avoid dwelling on complicated or serious matters."
+              }
+            },
+            "BiographyEnd": "Bert is a non-marriageable villager at Nightingale Orchard whose defining trait is his relentless, happy-go-lucky optimism. This cheerfulness makes him a supportive and loving father figure, but sometimes forces his wife, Olga, to carry the burden of being the serious, grounded parent. He finds joy in farm life and maintaining a positive attitude.",
+            "ExtraPortraits": {},
+            "Unique": "",
+            "Preoccupations": ["Nightingale Orchard", "Olga", "Alissa", "Optimism", "Simple Living"],
+            "Dialogue": {},
+            "HomeLocationBed": false,
+            "UsePatchedDialogue": false
+        }
+      }
+    ]
+}

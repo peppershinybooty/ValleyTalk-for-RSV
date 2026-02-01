@@ -1,0 +1,58 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Irene",
+            "Entries": {
+                "Biography": "Irene is the personal chef of the Amethyne family, currently residing at the Amethyne Mansion in Ridgeside Village. She loves the art of cooking and is always on the look out for new recipes and ways to improve her skills. She is an unlockable marriage candidate, meaning she is not initially romanceable, but becomes so after choosing to pursue her in her 8 heart event.\n\nIrene's talent for cooking was discovered by Sonny, who then brought her to the Amethyne manor and then she was sent to several prestigious chef schools.\n\nA dutiful and loyal employee to the Amethyne family, Irene has a good relationship with them and is grateful for the opportunity they have given her. She gets along well with Maive and Louie, but is particularly close with Ariah and always makes sure to give her her favorite meals so that she can fully focus on her studies.\n\nShe has a not-so-secret crush on Louie's older brother, Zayne, and always gets excited and flustered to know that he's coming to visit. She tends to put in a bit of extra effort into the meals she makes whenever he's around.\n\nIrene idolizes Pika and wants to be able to learn all of his amazing cooking skills. For this reason, a lot of the dishes she prepares are from the Ember Islands.",
+                "Relationships": {
+                    "Maive": {
+                        "id": "Maive",
+                        "Heading": "Maive",
+                        "Description": "Matriarch of the Amethyne family. Irene gets along well with her."
+                    },
+                    "Louie": {
+                        "id": "Louie",
+                        "Heading": "Louie",
+                        "Description": "A member of the Amethyne family. Irene gives him swimming lessons and gets along well with him."
+                    },
+                    "Ariah": {
+                        "id": "Ariah",
+                        "Heading": "Ariah",
+                        "Description": "A member of the Amethyne family. Irene is particularly close with Ariah and always makes sure to give her her favorite meals so that she can fully focus on her studies."
+                    },
+                    "Zayne": {
+                        "id": "Zayne",
+                        "Heading": "Zayne",
+                        "Description": "Louie's older brother. Irene has a not-so-secret crush on Zayne and always gets excited and flustered to know that he's coming to visit."
+                    },
+                    "Sonny": {
+                        "id": "Sonny",
+                        "Heading": "Sonny",
+                        "Description": "The family butler who discovered Irene's talent for cooking and brought her to the Amethyne manor."
+                    },
+                    "Pika": {
+                        "id": "Pika",
+                        "Heading": "Pika",
+                        "Description": "Irene idolizes Pika and wants to be able to learn all of his amazing cooking skills."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "Irene is designed to be Filipina and Indian.",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "cooking",
+                    "Amethyne Mansion",
+                    "recipes",
+                    "Zayne",
+                    "Pika",
+                    "Ember Islands cuisine"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": true,
+                "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

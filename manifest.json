@@ -1,0 +1,12 @@
+{
+  "Name": "ValleyTalk for RSV",
+  "Author": "eppielicious",
+  "Version": "1.0.0",
+  "Description": "Ridgeside Village content pack for ValleyTalk",
+  "UniqueID": "eppielicious.ValleyTalkRSV",
+  "MinimumApiVersion": "4.1.0",
+  "UpdateKeys": [],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

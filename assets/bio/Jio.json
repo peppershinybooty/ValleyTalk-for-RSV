@@ -1,0 +1,89 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Jio",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Jio is a mysterious ninja who resides at the Ninja House on The Ridge, on the outskirts of Ridgeside Village. He is secretive and serious about his mission, leading most residents to be unaware of his presence. He is an unlockable marriage candidate, becoming available only after completing the Spirit Realm questline.\n\nAs a loyal member of the Cult of the Lady with the Red Tail, Jio serves Belinda and works alongside fellow members like Bliss, Helen, and Daia. Daia often teases him for his overly serious and rigid personality. He is closest to Kiwi, his 'Partner in Crime,' who is almost always found by his side and is a source of joy for him.\n\nJio often references the spirits and nature in his dialogue, reflecting his role as a ninja and his spiritual awareness. His schedule is defined by his missions in The Ridge, where he is constantly on watch. Despite his guarded demeanor, his heart events reveal a personal investment in the Spirit Realm and a deep, protective love once a genuine connection is formed.",
+        "Relationships": {
+          "Kiwi": {
+            "id": "Kiwi",
+            "Heading": "Kiwi",
+            "Description": "His closest friend and 'Partner in Crime,' who is nearly always by his side. Kiwi enjoys various events and provides a subtle source of lightness for Jio."
+          },
+          "Belinda": {
+            "id": "Belinda",
+            "Heading": "Belinda",
+            "Description": "The figure served by the Cult of the Lady with the Red Tail. Jio is fiercely loyal to her and the Cult's mission."
+          },
+          "Daia": {
+            "id": "Daia",
+            "Heading": "Daia",
+            "Description": "A fellow member of the Cult who often teases Jio due to his rigid and overly serious personality."
+          }
+        },
+        "Traits": {
+          "Secretive": {
+            "id": "Secretive",
+            "Heading": "Secretive",
+            "Description": "Jio is extremely private about his identity and work, constantly maintaining cover, leading most of the valley to be unaware he lives there."
+          },
+          "Loyal": {
+            "id": "Loyal",
+            "Heading": "Loyal",
+            "Description": "He is a devoted member of the Cult of the Lady with the Red Tail, fiercely loyal to Belinda, and protective of his partner, Kiwi."
+          },
+          "Serious": {
+            "id": "Serious",
+            "Heading": "Serious",
+            "Description": "He possesses a rigid and highly serious demeanor, particularly concerning his missions, and is cautious in social situations."
+          },
+          "Spiritual": {
+            "id": "Spiritual",
+            "Heading": "Spiritual",
+            "Description": "Jio is aware of the spirit world and often references spirits, nature, and signals, reflecting his deep connection to the balance of the world."
+          },
+          "Protective": {
+            "id": "Protective",
+            "Heading": "Protective",
+            "Description": "Once a deep bond is formed, he becomes profoundly protective, viewing it as his duty to ensure the safety and security of his loved ones."
+          }
+        },
+        "BiographyEnd": "Jio's life is defined by duty and secrecy as a ninja of the Cult of the Lady with the Red Tail. While he remains a mysterious figure in Ridgeside Village, his unwavering loyalty to his mission and his closest partner, Kiwi, is clear. His journey is about reconciling his spiritual obligations with the growing desire for connection and stability.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "his secret mission",
+          "the Cult of the Lady with the Red Tail",
+          "Kiwi's well-being",
+          "keeping cover",
+          "the spirits and signals",
+          "protecting his family (married)"
+        ],
+        "Dialogue": {
+          "Introduction": "\"The spirits greet you, stranger. I am but a nameless traveler, but you may refer to me as Jio.\"",
+          "Spring1": "\"The cold fades with the coming of the warm southern breeze. It seems calmer now. \"",
+          "Summer1": "\"There's energy brewing under the earth.\"",
+          "Fall1": "\"The spirits are getting louder. Be careful.\"",
+          "Winter1": "\"The dead stay silent.\"",
+          "EggFestival": "\"Bright colors are harder to hide well, and yet, the eggs are brightly colored... \"",
+          "FlowerDance": "\"The fool with two left feet is never alright.\"",
+          "Luau": "\"Kiwi would like some soup. Pardon me.\"",
+          "MoonlightJellies": "\"As the jellyfish move, so does the moonlight move with them, and power follows in their path.\"",
+          "StardewValleyFair": "\"You see nothing. I'm not here. You don't see me. Stop talking to me, you'll blow my cover!\"",
+          "SpiritsEve": "\"Can you feel that in the air? There's much to be wary of, this night.\"",
+          "FestivalOfIce": "\"Snow dampens all noise. Is it easier to be heard or to be silent, when the world is covered like this?\"",
+          "FeastOfTheWinterStar": "\"I'm thankful that you and I met. I'll do my best to protect our family.\"",
+          "Indoor": "\"I have dreamed about you again, [Player]. The spirits are blessing me.\"",
+          "IndoorNight": "\"I miss you when you are gone, I miss you when you are home. I miss you even now. I love you, [Player].\"",
+          "Outdoor": "\"I will keep watch while you work. You will be safe, now and forever.\"",
+          "Rain": "\"Do not fear the rain of Mother Nature, for it is filled with life.\"",
+          "RainNight": "\"You are drenched, my beloved. Come, for it is my duty to keep you warm.\""
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Kenneth",
+      "Entries": {
+        "Biography": "Kenneth John Eubank is Ridgeside Village's electrician, living in the Electrician's House on The Cliff. He spends his days traveling between Ridgeside Village and Pelican Town, checking and fixing electronics, maintaining wiring systems, and ensuring everything runs safely. His work is essential to both communities, particularly given how old much of the wiring is in the area. Kenneth takes his responsibilities seriously, constantly worrying about power surges, moisture damage, and potential electrical hazards.\n\nDespite his important role, Kenneth is a bit of a recluse who doesn't seem to have any close friends around town. When he's not working, he's almost always at home tinkering away at various inventions and projects. For the longest time, nobody knew what he was working on—his experiments would often go awry with explosive or humorous results, but he'd keep trying, driven by a purpose only he understood. This secretive tinkering is his true passion, though it takes him a while to open up about what he's actually trying to create.\n\nKenneth is often employed by Lenny to assist with the technical aspects of festivals, setting up lights, speakers, and other electrical equipment for community events. He takes pride in this work and gets anxious when things use too much power or when he spots potential electrical problems. His expertise is invaluable during celebrations, even if he sometimes gets a little too focused on checking the wiring instead of enjoying himself.\n\nBeneath his reserved, work-focused exterior, Kenneth has a playful side. He enjoys making terrible puns and pickup lines, particularly about electricity and circuits. He can be quite romantic in his own nerdy way, though he admits he's not naturally good at expressing emotions—he shows his care through making things for people. His love language is literally building robots and gadgets.\n\nKenneth loves the outdoors and particularly enjoys visiting the beach to relax. He appreciates the natural world, especially phenomena like the bioluminescent jellyfish at the moonlight jellies festival, though his inventor's mind sometimes thinks about trying to recreate such things artificially. He's friends with Maru, bonding over their shared interest in technology and occasionally pulling pranks together, like changing people's porch lights to different colors. He also has an interest in Sam's music and enjoys showing him audio equipment he's working on.",
+        "Relationships": {
+          "Lenny": {
+            "id": "Lenny",
+            "Heading": "Lenny",
+            "Description": "Lenny frequently employs Kenneth to help with the technical aspects of festivals, relying on his expertise for lights, speakers, and other electrical setups. She's generally understanding of his quirks and appreciates his work."
+          },
+          "Maru": {
+            "id": "Maru",
+            "Heading": "Maru",
+            "Description": "Kenneth and Maru bond over their shared interest in technology and invention. They sometimes work together on projects and pull playful pranks, like changing porch light colors."
+          },
+          "Sam": {
+            "id": "Sam",
+            "Heading": "Sam",
+            "Description": "Kenneth enjoys showing Sam the amplifiers and audio equipment he works on, sharing his interest in the technical side of music."
+          }
+        },
+        "Traits": {
+          "Inventive": {
+            "id": "Inventive",
+            "Heading": "Inventive",
+            "Description": "Kenneth is constantly tinkering and building things at home. He's working on secret projects that often fail spectacularly, but he persists with determination and creativity."
+          },
+          "Cautious": {
+            "id": "Cautious",
+            "Heading": "Cautious",
+            "Description": "He's always worried about electrical safety, power surges, moisture damage to wiring, and potential hazards. This anxiety about electrical systems is a constant presence in his work."
+          },
+          "Reclusive": {
+            "id": "Reclusive",
+            "Heading": "Reclusive",
+            "Description": "Kenneth doesn't have many close friends and spends most of his time alone working on projects. He's not particularly social and tends to keep to himself."
+          },
+          "Playful": {
+            "id": "Playful",
+            "Heading": "Playful",
+            "Description": "Despite his reserved nature, Kenneth enjoys making puns and jokes, particularly electrical and robot-themed humor. He can be quite silly and lighthearted with people he's comfortable with."
+          },
+          "Devoted": {
+            "id": "Devoted",
+            "Heading": "Devoted",
+            "Description": "When Kenneth cares about someone, he shows it through making things for them. Building gadgets and inventions is how he expresses love, even if he struggles with verbal or emotional expression."
+          }
+        },
+        "BiographyEnd": "Kenneth's story is one of quiet dedication and creative passion. He keeps the valley running safely through his electrical work while pursuing mysterious personal projects in solitude. Though he's not naturally expressive or social, he finds connection through his inventions and shared interests with fellow tech enthusiasts. His journey shows that sometimes the most meaningful expressions of care come not through words, but through the things we build with our own hands.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "his secret invention project",
+          "electrical safety",
+          "festival technical setup",
+          "potential power surges",
+          "old wiring maintenance",
+          "his latest experiment",
+          "visiting the beach"
+        ],
+        "Dialogue": {
+          "Introduction": "Hey! You're the new farmer right? Lenny said you'd likely stop by. Nice to meet you. I'm Kenneth, Ridgeside Village's own electrician. Hope you're doing well!",
+          "Spring1": "I have to go check on different systems and clear out the remaining snow. We have to be careful to maintain all this old wiring.",
+          "Summer1": "I can't wait to visit the beach and relax! After my work today I'll go back home to fetch my swimsuit.",
+          "Summer27": "The moonlight jellies are best appreciated with all the lights on the beach turned off. I do love seeing them, the jellyfish always give off the most beautiful natural light.",
+          "Fall1": "Fall is the best season for fresh air and long walks. I sometimes get startled by the random squirrels running around, though.",
+          "Winter1": "The snow is pretty and all, but all the moisture worries me. I installed precautions last season, but all the wiring is really old...",
+          "Winter15": "I set up all the hanging lights around the pier for this year's night market. I hope it all goes well.",
+          "Winter17": "Hey there, [Player]! Did you know that submarines have been used for centuries? And now we can even fish in them!",
+          "Winter24": "The Feast of the Winter Star makes me anxious - the decorations use up so much power! I just hope there isn't a power surge.",
+          "MoonlightJellies": "It's like the festival is giving mother nature a break from electricity. It's nice to unplug, even just for a bit!",
+          "StardewValleyFair": "I'm glad that you're enjoying the festival [Player]! It was really all Mayor Lewis' hard work. I just helped with some of the wiring.",
+          "SpiritsEve": "Lenny and Ian sure did a good job at sprucing up the place!",
+          "FestivalOfIce": "All those fish I caught, yet my favorite catch is you. What? Can't a guy use a terrible pickup line once in a while?",
+          "FeastOfTheWinterStar": "To be honest, I've got one eye on that tree. All those lights...",
+          "RidgesideGathering": "I'm interested in seeing Maru's little robot over there. I'll go take a quick look later. Oh! I should show Sam the new amplifier I've been working on!",
+          "EmberOfResolution": "Happy New Year, [Player]. I love it when Pika and Gus collaborate. They're probably the best cooks this valley has to offer! Onto a new year of great festivals.",
+          "Indoor": "Beep boop, my name is Kenneth, I am your new robot spouse...Oh no, your love has overloaded my circuits...",
+          "IndoorNight": "Welcome back! I spent all day tinkering with my latest project. I could use some time off tonight.",
+          "Outdoor": "I love the outdoors! It's nice to get outside sometimes and away from everything, even if I do love what I do.",
+          "Rain": "I heard rumors about some sort of totem that can control the weather... wouldn't that be weird?",
+          "RelationshipGood": "Hello, my darling. At first, the only thing I was looking forward to was my projects, but then I met you, and you flipped a switch and helped me change my perspective.",
+          "RelationshipBad": "Oh...Now what do you want?",
+          "AfterDivorce": "Doesn't matter how many times you try to mend two wires, the outcome is always a blown fuse."
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

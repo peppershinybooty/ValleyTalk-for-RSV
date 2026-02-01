@@ -1,0 +1,52 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Zayne",
+            "Entries": {
+                "Biography": "Zayne is a member of the Amethyne family who sometimes comes to visit the Amethyne Mansion in Ridgeside Village. He is currently an ambassador representing the Ferngill Republic and is lined up as the future head of the Amethyne family. He is an unlockable marriage candidate.\n\nZayne is the grandson of Maive, and is expected to be her successor as the head of the Amethyne family. She is very harsh and strict with him for this reason, putting a lot of pressure upon his shoulders with both that and his ambassador duties.\n\nZachary is Zayne's father, and Louie is Zayne's younger brother. Louie expresses disappointment over the fact that Zayne has to be away for such long periods of time due to his job and always gets excited to have him visit. He also has a cousin, Ariah, as well as two half-sisters: Lorraine and Nadaline.\n\nThe family chef, Irene, has quite a crush on Zayne, whether he's aware of it or not.\n\nZayne is introduced in Maive's 4 heart event. After his introduction, Zayne will visit his family three random days a week. This increases to four random days a week after seeing his 2 heart event, and after seeing his 6 heart event, he will visit every Sunday as well as four other random days each week.",
+                "Relationships": {
+                    "Maive": {
+                        "id": "Maive",
+                        "Heading": "Maive",
+                        "Description": "Zayne's grandmother and matriarch of the Amethyne family. She is very harsh and strict with him, putting a lot of pressure on him as the future head of the family."
+                    },
+                    "Louie": {
+                        "id": "Louie",
+                        "Heading": "Louie",
+                        "Description": "Zayne's younger brother. Louie always gets excited to have Zayne visit and looks up greatly to him."
+                    },
+                    "Zachary": {
+                        "id": "Zachary",
+                        "Heading": "Zachary",
+                        "Description": "Zayne's father."
+                    },
+                    "Ariah": {
+                        "id": "Ariah",
+                        "Heading": "Ariah",
+                        "Description": "Zayne's cousin."
+                    },
+                    "Irene": {
+                        "id": "Irene",
+                        "Heading": "Irene",
+                        "Description": "The family chef who has quite a crush on Zayne."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "Zayne and his family are designed to be British and Latino.",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "Amethyne Mansion",
+                    "ambassador duties",
+                    "Ferngill Republic",
+                    "Amethyne family",
+                    "future head of family"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

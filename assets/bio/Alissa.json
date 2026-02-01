@@ -1,0 +1,72 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/Bios/Alissa",
+        "Entries": {
+            "Biography": "Alissa Melodie Liden is a marriageable villager residing in Ridgeside Village. She works hard as a farmer at the Nightingale Orchard, a farm managed by her family. Alissa has a secret passion for singing and songwriting, which she initially keeps hidden due to shyness.\n\n**Interests**\n* Singing and songwriting, especially her original music.\n* Farming and working at the Nightingale Orchard.\n* Spending time with her cousin Trinnie and her Aunt and Uncle.\n\n**Background**\nAlissa is the daughter of Malaya and Kimpoi, but her parents left to travel on a 'worldwide adventure' when she was young. She was raised by her Aunt Olga and Uncle Bert, forming a strong bond with them. She views her cousin Trinnie as a little sister. Her singing talent was discovered by the Farmer and later encouraged by Lenny, who invited her to perform for the village.\n\n**Significant Game Events**\n* Alissa is embarrassed and runs away when the farmer first hears her singing.\n* Alissa overcomes her shyness to perform a song for the village after encouragement from Lenny.\n* The farmer helps her in the Orchard and she confesses her feelings.\n* She and the Farmer enjoy a picnic together at The Cliff.",
+            "Relationships": {
+              "Kimpoi": {
+                "id": "Kimpoi",
+                "Heading": "Father",
+                "Description": "Alissa's father. She is unsure how to feel about his and Malaya's return after they left for a 'worldwide adventure' when she was young."
+              },
+              "Malaya": {
+                "id": "Malaya",
+                "Heading": "Mother",
+                "Description": "Alissa's mother. She is unsure how to feel about her and Kimpoi's return after they left for a 'worldwide adventure' when she was young."
+              },
+              "Olga": {
+                "id": "Olga",
+                "Heading": "Aunt",
+                "Description": "Alissa's aunt, who raised her for most of her life, resulting in a strong bond."
+              },
+              "Bert": {
+                "id": "Bert",
+                "Heading": "Uncle",
+                "Description": "Alissa's uncle, who helped raise her. She has a strong bond with him."
+              },
+              "Trinnie": {
+                "id": "Trinnie",
+                "Heading": "Cousin",
+                "Description": "Alissa views her cousin, Trinnie, as a little sister."
+              },
+              "Lenny": {
+                "id": "Lenny",
+                "Heading": "Ridgeside Admin",
+                "Description": "Lenny encouraged Alissa to put on a concert after overhearing her sing."
+              }
+            },
+            "Traits": {
+              "Hard-working": {
+                "id": "HardWorking",
+                "Heading": "Hard-working",
+                "Description": "She works hard as a farmer at the Nightingale Orchard."
+              },
+              "Shy": {
+                "id": "Shy",
+                "Heading": "Shy",
+                "Description": "She is initially embarrassed and secretive about her singing and songwriting talent."
+              },
+              "Musical": {
+                "id": "Musical",
+                "Heading": "Musical",
+                "Description": "Alissa has a secret passion for singing and songwriting."
+              },
+              "Family-Oriented": {
+                "id": "FamilyOriented",
+                "Heading": "Family-Oriented",
+                "Description": "She has a very strong bond with the aunt and uncle who raised her."
+              }
+            },
+            "BiographyEnd": "Alissa is Alissa Melodie Liden, a hard-working farmer and marriage candidate from Nightingale Orchard. She is shy about her secret passion for singing and songwriting, but is eventually encouraged by @ and Lenny to share her talent. Raised primarily by her Aunt Olga and Uncle Bert, she has a strong sense of family. She and @ can enjoy a picnic at The Cliff together.",
+            "ExtraPortraits": {},
+            "Unique": "",
+            "Preoccupations": ["Singing", "Songwriting", "Nightingale Orchard", "Olga", "Bert", "Trinnie", "The Cliff"],
+            "Dialogue": {},
+            "HomeLocationBed": false,
+            "UsePatchedDialogue": false
+        }
+      }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Paula",
+            "Entries": {
+                "Biography": "Paula is a villager residing in Ridgeside Village. She is an army medic who was recently assigned to work at Ridgeside Clinic, letting her return to her hometown. She is an unlockable marriage candidate, meaning that she is not initially romanceable, but becomes so after choosing to pursue her in her 8 heart event.\n\nHaving grown up in Ridgeside, Paula has many friends around town and is very lively and easy to talk to. Her best friend however is definitely Anton, who's held that title since they were children. They can often be found hanging out together, either at Paula's clinic or at Pika's Restaurant.\n\nAs a medical professional, she has a good relationship with others working in the same field as her, such as Philip and Harvey. Kiarra sometimes comes to her clinic to lend a helping hand as well.\n\nPaula mentions that when they were kids, she was the roudiest of her group of friends, always getting into fights and doing a lot of physical play.",
+                "Relationships": {
+                    "Anton": {
+                        "id": "Anton",
+                        "Heading": "Anton",
+                        "Description": "Paula's best friend since they were children. They can often be found hanging out together, either at Paula's clinic or at Pika's Restaurant."
+                    },
+                    "Philip": {
+                        "id": "Philip",
+                        "Heading": "Philip",
+                        "Description": "A physical therapist. Paula has a good relationship with him as a fellow medical professional."
+                    },
+                    "Harvey": {
+                        "id": "Harvey",
+                        "Heading": "Harvey",
+                        "Description": "The doctor in Pelican Town. Paula has a good relationship with him as a fellow medical professional."
+                    },
+                    "Kiarra": {
+                        "id": "Kiarra",
+                        "Heading": "Kiarra",
+                        "Description": "Kiarra sometimes comes to Paula's clinic to lend a helping hand."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "Ridgeside Clinic",
+                    "medical work",
+                    "Anton",
+                    "Pika's Restaurant",
+                    "Ferngill Republic army"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

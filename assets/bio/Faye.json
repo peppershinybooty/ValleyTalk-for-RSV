@@ -1,0 +1,51 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "ValleyTalk/Bios/Faye",
+            "Entries": {
+                "Biography": "Faye is a villager living in Ridgeside Village. She is currently a waitress at Pika's Restaurant, but aspires to become a self-made successful fashion designer. She is an unlockable marriage candidate, meaning that she is not initially romanceable, but becomes so after her 8 heart event, if certain conditions have been met prior.\n\nFaye is very friendly and can freely converse with many of the residents of Ridgeside. She has a clothing shop at her house where she sells clothes of her own design.\n\nIn her heart events it's revealed that she gets distracted easily whenever she gets an inspiration for a new fashion design, sometimes even forgetting to eat.",
+                "Relationships": {
+                    "Maddie": {
+                        "id": "Maddie",
+                        "Heading": "Maddie",
+                        "Description": "Good friends with Faye."
+                    },
+                    "Jeric": {
+                        "id": "Jeric",
+                        "Heading": "Jeric",
+                        "Description": "Good friends with Faye."
+                    },
+                    "Haley": {
+                        "id": "Haley",
+                        "Heading": "Haley",
+                        "Description": "Faye has a good relationship with Haley due to a mutual interest in beauty and fashion."
+                    },
+                    "Emily": {
+                        "id": "Emily",
+                        "Heading": "Emily",
+                        "Description": "Faye has a good relationship with Emily due to a mutual interest in beauty and fashion."
+                    },
+                    "Bryle": {
+                        "id": "Bryle",
+                        "Heading": "Bryle",
+                        "Description": "Faye does not get along well (at least initially) with Bryle, after a certain incident that occurred when Bryle first visited Ridgeside."
+                    }
+                },
+                "Traits": {},
+                "BiographyEnd": "",
+                "ExtraPortraits": {},
+                "Unique": "",
+                "Preoccupations": [
+                    "fashion design",
+                    "Pika's Restaurant",
+                    "clothing shop",
+                    "design inspiration"
+                ],
+                "Dialogue": {},
+                "HomeLocationBed": true,
+                "UsePatchedDialogue": false
+            }
+        }
+    ]
+}

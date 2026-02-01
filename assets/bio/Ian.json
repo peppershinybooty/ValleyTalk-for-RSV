@@ -1,0 +1,90 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Ian",
+          "Entries": {
+        "Biography": "Ian Carl Winters is a hardworking handyman who lives and works at Odd Jobs Services in Ridgeside Village. He moved to the valley a year or two before the farmer arrived, seeking steady work to support his family back home. Ian takes on any job he can get, working tirelessly for whoever can pay a fair fee. His days are filled with diverse tasks: chopping trees for Robin, moving boxes for Lewis and Lenny, cleaning barns for Marnie, catching fish for Willy, mining coal for Clint, and countless other odd jobs around both Ridgeside Village and Pelican Town.\n\nDespite his demanding work schedule, Ian's motivation is deeply personal and selfless. Every coin he earns goes toward supporting his younger sister Khea's education back home. This responsibility weighs heavily on him, driving him to work from dawn until late at night, rarely taking breaks or indulging in anything for himself. He views even light workloads as problematic, always seeking more opportunities to earn money.\n\nIan struggles with limited English literacy, which makes writing and reading letters to his family difficult and emotionally taxing. He often needs help composing letters home and reading the responses he receives. This vulnerability is something he's both embarrassed about and determined to improve, though finding time and resources for English lessons proves challenging.\n\nHis living situation at Odd Jobs Services with his coworker Sean is practical but sometimes strained. While the two get along overall, Sean's more relaxed work ethic occasionally frustrates Ian, who believes in giving maximum effort to every task. The business was provided to them by Lenny, who gave them an old shack to run their operation from.\n\nIan is humble, grateful, and practical to a fault. He avoids wasting money on games or luxuries, appreciates festivals primarily for the free food, and makes do with worn-out gloves with holes in them. He finds joy in simple things: the satisfaction of a job well done, helping others, and the changing seasons that bring different types of work. Fall is a favorite for leaf-raking opportunities, while winter's snow provides steady shoveling work. Despite his hardships, Ian remains kind and optimistic, always willing to lend a hand even when his own plate is overflowing.",
+        "Relationships": {
+          "Sean": {
+            "id": "Sean",
+            "Heading": "Sean",
+            "Description": "Ian's coworker and roommate at Odd Jobs Services. They met before arriving in the valley and work together, though Ian sometimes gets frustrated with Sean's more laid-back approach to work. Overall, they get along well and support each other."
+          },
+          "Lenny": {
+            "id": "Lenny",
+            "Heading": "Lenny",
+            "Description": "Lenny provided Ian and Sean with the old shack to run Odd Jobs Services. Ian frequently works for Lenny doing various tasks around the village and is grateful for the opportunity Lenny gave them."
+          },
+          "Robin": {
+            "id": "Robin",
+            "Heading": "Robin",
+            "Description": "Ian regularly works for Robin, helping with construction tasks like chopping trees and moving materials."
+          },
+          "Khea": {
+            "id": "Khea",
+            "Heading": "Khea (younger sister)",
+            "Description": "Ian's younger sister who lives back home and does not appear in the game. Ian works tirelessly to send money home so she can finish her education. She is his primary motivation for everything he does."
+          }
+        },
+        "Traits": {
+          "Hardworking": {
+            "id": "Hardworking",
+            "Heading": "Hardworking",
+            "Description": "Ian works from dawn to late at night, taking on any job available. He considers light workloads problematic and always seeks more work to do."
+          },
+          "Selfless": {
+            "id": "Selfless",
+            "Heading": "Selfless",
+            "Description": "He sends all his earnings home to support his sister's education, rarely spending money on himself even for basic necessities like new gloves."
+          },
+          "Humble": {
+            "id": "Humble",
+            "Heading": "Humble",
+            "Description": "Ian doesn't seek recognition for his efforts and is grateful for any help or kindness shown to him. He's embarrassed about his limited literacy but working to improve."
+          },
+          "Practical": {
+            "id": "Practical",
+            "Heading": "Practical",
+            "Description": "He avoids wasting money, appreciates festivals for free food, and finds value in simple, functional things rather than luxuries."
+          },
+          "Kind": {
+            "id": "Kind",
+            "Heading": "Kind",
+            "Description": "Despite his own struggles, Ian is always willing to help others and shows genuine care for people and animals around him."
+          }
+        },
+        "BiographyEnd": "Ian's journey is one of quiet perseverance and sacrifice. While he works tirelessly in the present, he dreams of a better future for his sister and hopes to one day improve his own education. His story reminds us that hard work and dedication, while admirable, deserve support and recognition. Through friendships and community, Ian is learning that accepting help is not weakness, and that his own dreams and needs matter too.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "sister Khea's education",
+          "earning money",
+          "upcoming work",
+          "letters from home",
+          "learning to read better",
+          "odd jobs around town"
+        ],
+        "Dialogue": {
+          "Introduction": "Hi. You're the new farmer who just moved in, right? I'm Ian, it's good to meet you. I live over in Ridgeside Village. Generally, I just work for whoever asks and can pay a good fee. That can include you, of course!",
+          "Spring1": "Today marks the start of a new year. I've got lots of stuff to do.",
+          "EggFestival": "Miss Evelyn's deviled eggs are really good. She told me she puts chili powder on top instead of paprika! That's a secret from Gus, though.",
+          "FlowerDance": "Did you get some strawberry seeds from Pierre's stall? You'll have to let me know when they're all grown. They're my favorite fruit!",
+          "Summer10": "Bringing out the giant pot for the soup tomorrow is such a big chore! It takes six grown adults to carry it!",
+          "Luau": "I don't have the money to add something fancy to the stew. I hope the ridge cherries I added are good enough...",
+          "Fall1": "I like this season. So many people need their leaves raked. It's a good way to make some pocket change!",
+          "Fall15": "I'll have to stay up late tonight. I promised Lewis and Lenny that I'd help set up stalls for the festival. The vendors arrive early in the morning, so we have to work through the night.",
+          "SpiritsEve": "I'm thankful for all of the festivals we have. A day that I don't have to buy food means more in savings! Gus and Pika sometimes let me take leftovers home, too.",
+          "Winter1": "Winter is probably my favorite season. It snows a lot here in the valley, so I almost always have work to do! The best part? I don't sweat as much!",
+          "FestivalOfIce": "My gloves have holes in them. I'm not bothered by the cold, so it's not that big of a deal. I wonder if Emily can teach me how to mend them.",
+          "Indoor": "I'm gonna do some cleaning today. Let me know if you want me to run any laundry, okay?",
+          "IndoorNight": "Hon! I'm glad you're back. I had a productive day today! I got through another chapter of my book, and now I know what 'facilitate' means!",
+          "Outdoor": "I wonder, how do you manage all this alone? You've got the drive of ten [wo/men]! Let me know if I can lend a hand, alright?",
+          "Rain": "There's a small leak above the kitchen. Don't worry about it, I'll take care of it right away. It's the least I can do."
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Kiarra",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Kiarra Legame is a freelance graphic designer living in Ridgeside Village. She is the youngest of the Legame siblings and lives on the second floor of Heaps Convenience Store with her brothers Anton and Lorenzo, and Lorenzo's wife Shanice. Kiarra is rebellious and outspoken in her beliefs, including a strong distaste for Joja Co. She is one of twenty-two characters available to marry.\n\n**Background:**\n\nKiarra is designed to be Italian, and she sometimes uses Italian words in her speech. As a freelance graphic designer, her work schedule is flexible, which allows her to use her free time to help Lenny at the Village Admin office and Paula at the clinic.",
+        "Relationships": {
+          "Anton": {
+            "id": "Anton",
+            "Heading": "Anton",
+            "Description": "Kiarra's older brother. They live together on the second floor of Heaps Convenience Store and get along well."
+          },
+          "Lorenzo": {
+            "id": "Lorenzo",
+            "Heading": "Lorenzo",
+            "Description": "Kiarra's older brother. Lorenzo often worries for his little sister's future and does not always understand her dedication to her righteous beliefs. They live together on the second floor of Heaps Convenience Store."
+          },
+          "Shanice": {
+            "id": "Shanice",
+            "Heading": "Shanice",
+            "Description": "Lorenzo's wife. Kiarra gets along well with her, and all four of them live together on the second floor of Heaps Convenience Store."
+          },
+          "Lenny": {
+            "id": "Lenny",
+            "Heading": "Lenny",
+            "Description": "Kiarra often uses her free time to help Lenny at the Village Admin office."
+          },
+          "Paula": {
+            "id": "Paula",
+            "Heading": "Paula",
+            "Description": "Kiarra often uses her free time to help Paula at the clinic."
+          }
+        },
+        "Traits": {
+          "Rebellious and Outspoken": {
+            "id": "Rebellious and Outspoken",
+            "Heading": "Rebellious and Outspoken",
+            "Description": "Kiarra is rebellious and outspoken in her beliefs. She has a strong distaste for Joja Co. and will reject marriage proposals from anyone who has completed the Joja Warehouse."
+          },
+          "Community Helper": {
+            "id": "Community Helper",
+            "Heading": "Community Helper",
+            "Description": "Since her work is freelance and she does not have to adhere to a strict schedule, Kiarra will often use her free time to help out Lenny and Paula at their respective offices."
+          },
+          "Italian Heritage": {
+            "id": "Italian Heritage",
+            "Heading": "Italian Heritage",
+            "Description": "Kiarra and her siblings are designed to be Italian. She sometimes uses Italian words in her speech."
+          },
+          "Gifts": {
+            "id": "Gifts",
+            "Heading": "Gifts",
+            "Description": "Kiarra's favorite gifts include Spaghetti, Super Meal, Jumpy Coffee Cake, Desert Tangelo, and Summer Mountain Blessing. She dislikes Hops and hates Mango."
+          }
+        },
+        "BiographyEnd": "**Life in Ridgeside Village:**\n\nKiarra spends her days working on graphic design projects from home. Her typical schedule includes visiting The Ridge, spending time at Heaps Convenience Store, eating at Pika's Restaurant, and relaxing in the Log Cabin Hotel lobby. On Tuesdays she visits the Ridgeside Village Admin office, and on Fridays she goes to the Ridgeside Clinic. During rainy days, she stays on the second floor of Heaps Convenience Store.\n\nKiarra will send the recipe for Jumpy Coffee Cake after reaching 8 hearts with her.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "graphic design",
+          "Joja Co opposition",
+          "helping Lenny",
+          "helping Paula",
+          "Anton",
+          "Lorenzo",
+          "Shanice",
+          "Italian heritage"
+        ],
+        "Dialogue": {},
+        "HomeLocationBed": false
+      }
+    }
+  ]
+}

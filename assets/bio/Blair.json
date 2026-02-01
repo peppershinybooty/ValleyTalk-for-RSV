@@ -1,0 +1,57 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/Bios/Blair",
+        "Entries": {
+            "Biography": "Blair is a lively and playful bachelorette who works as a fisher in Ridgeside Village. She is known for her **childish enthusiasm, love of pranks, and seemingly carefree attitude**, which often masks an underlying struggle with her family history and financial worries.\n\n**Interests & Conflicts**\n* Fishing, which is her primary passion and source of income (though she notes it doesn't always cover all expenses).\n* Organizing and participating in prank wars with her best friend Sean and the younger kids, Trinnie and Keahi.\n* **Dealing with the complex emotional fallout from her parents' divorce** (when she was ten).\n* **The strain in her relationship with her mother, Carmen**, due to Carmen's frequent jokes at the expense of Blair's absent father.\n\n**Background & Personality**\nBlair lives with her mother, Carmen, in the Rivera Residence. She tries to maintain a facade of fun and light-heartedness, often rejecting seriousness. However, key events reveal that she is deeply sensitive to her family's past. Her constant playfulness is her unique trait and a defensive mechanism to avoid confronting more painful emotions. She is fiercely protective of her best friend, Sean, and often seeks competitive engagement (like in fishing contests) to prove herself.\n\n**Significant Game Events**\n* Her events frequently involve pranks, babysitting, and fishing dates.\n* The 8-heart event explicitly involves a significant **argument with her mother, Carmen**, over their family issues.\n* She is seen practicing dancing and trying to figure out how to increase her income from fishing, showing her practical, yet sometimes clumsy, ambition.",
+            "Relationships": {
+              "Carmen": {
+                "id": "Carmen",
+                "Heading": "Mother",
+                "Description": "Blair's mother. Their relationship is strained at times due to Carmen's jokes about Blair's divorced father."
+              },
+              "Sean": {
+                "id": "Sean",
+                "Heading": "Best Friend",
+                "Description": "Blair's best friend. They are often seen together, playing games and waging prank wars."
+              },
+              "Trinnie": {
+                "id": "Trinnie",
+                "Heading": "Prank Target/Friend",
+                "Description": "One of the younger kids she and Sean frequently prank and play games with."
+              },
+              "Keahi": {
+                "id": "Keahi",
+                "Heading": "Prank Target/Friend",
+                "Description": "Another of the younger kids she and Sean play with."
+              }
+            },
+            "Traits": {
+              "Playful": {
+                "id": "Playful",
+                "Heading": "Playful",
+                "Description": "Her most obvious trait; she loves pranks, games, and is often described as having a childish attitude."
+              },
+              "Guarded": {
+                "id": "Guarded",
+                "Heading": "Guarded",
+                "Description": "She uses her playful facade to avoid showing vulnerability or dealing with serious emotions."
+              },
+              "Competitive": {
+                "id": "Competitive",
+                "Heading": "Competitive",
+                "Description": "She is determined to prove herself, especially in fishing contests."
+              }
+            },
+            "BiographyEnd": "Blair is a bachelorette who works as a fisher. Her unique trait is her highly energetic and playful demeanor, which often serves as a defense mechanism to cover up her lingering pain from her parents' divorce and the tension with her mother, Carmen. Her journey involves the farmer helping her balance her carefree nature with her sensitive, guarded interior.",
+            "ExtraPortraits": {},
+            "Unique": "",
+            "Preoccupations": ["Fishing", "Pranks", "Carmen", "Divorce/Father", "Financial Needs", "Sean"],
+            "Dialogue": {},
+            "HomeLocationBed": false,
+            "UsePatchedDialogue": false
+        }
+      }
+    ]
+}

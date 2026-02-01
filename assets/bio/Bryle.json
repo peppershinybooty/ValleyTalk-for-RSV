@@ -1,0 +1,85 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Bryle",
+      "Priority": "Early",
+      "Entries": {
+        "Biography": "Bryle is a professional bodyguard who works for the Governor in Zuzu City. Despite his demanding career, he makes frequent trips to Ridgeside Village to visit his long-time friend Jeric at Blooming Hill Farm. These visits provide a welcome respite from the hectic and sometimes dangerous nature of city life.\n\nAs a bodyguard, Bryle takes his responsibilities seriously and maintains a constant state of vigilance. He is trained in martial arts, particularly jiu jitsu, and applies that same discipline to all aspects of his life. However, beneath his professional exterior lies a playful and mischievous personality that emerges when he's among friends. He enjoys teasing those close to him and finds humor in everyday situations.\n\nBryle appreciates the wholesome, peaceful nature of valley life, which contrasts sharply with the wild parties and incidents he encounters in the city. The quiet festivals and community gatherings of Ridgeside Village offer him a chance to truly relax and enjoy himself without remaining on constant alert. He values safety and security, both for his clients and for those he cares about.\n\nHis relationship with Faye is complicated, stemming from an incident that occurred when he first visited Ridgeside Village. The two do not get along initially, though their dynamic may evolve over time depending on circumstances and mutual understanding.\n\nBryle's friendship with Jeric is deep and enduring, built on years of shared experiences. When not on duty in the city, he can often be found at Blooming Hill Farm, Pika's Restaurant, or exploring The Ridge. His visits to the village are irregular due to his work schedule, but he makes the most of his time there, connecting with friends and enjoying the peaceful atmosphere that the valley provides.",
+        "Relationships": {
+          "Jeric": {
+            "id": "Jeric",
+            "Heading": "Jeric",
+            "Description": "Bryle's long-time best friend. Bryle visits Jeric at Blooming Hill Farm whenever his bodyguard duties allow. Their friendship is strong and enduring."
+          },
+          "Faye": {
+            "id": "Faye",
+            "Heading": "Faye",
+            "Description": "Bryle and Faye do not get along initially due to an incident that occurred when Bryle first visited Ridgeside Village. Their relationship is tense and complicated."
+          },
+          "Governor": {
+            "id": "Governor",
+            "Heading": "The Governor",
+            "Description": "Bryle's employer. Bryle works as the Governor's bodyguard in Zuzu City and takes his protective duties very seriously."
+          }
+        },
+        "Traits": {
+          "Protective": {
+            "id": "Protective",
+            "Heading": "Protective",
+            "Description": "As a professional bodyguard, Bryle is vigilant and takes the safety of others seriously. He remains alert and ready to respond to potential threats."
+          },
+          "Playful": {
+            "id": "Playful",
+            "Heading": "Playful",
+            "Description": "Despite his serious profession, Bryle has a mischievous and teasing side that comes out when he's comfortable with people."
+          },
+          "Disciplined": {
+            "id": "Disciplined",
+            "Heading": "Disciplined",
+            "Description": "Bryle maintains rigorous training in martial arts and applies that same discipline to his work and daily life."
+          },
+          "Loyal": {
+            "id": "Loyal",
+            "Heading": "Loyal",
+            "Description": "He values his friendships deeply and remains devoted to those he cares about, particularly his long-time friend Jeric."
+          },
+          "Grounded": {
+            "id": "Grounded",
+            "Heading": "Grounded",
+            "Description": "Bryle appreciates the simple, wholesome aspects of valley life and finds peace in community gatherings and quiet moments away from the city."
+          }
+        },
+        "BiographyEnd": "Bryle's life is one of balancing professional duty with personal connection. While his career demands constant vigilance in the dangerous world of Zuzu City, he finds respite and genuine joy in the peaceful valley, surrounded by friends who value him for who he is rather than what he does. His journey involves learning to let his guard down and embrace the slower, more meaningful pace of life that Ridgeside Village offers.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": [
+          "bodyguard duties",
+          "the Governor",
+          "Jeric",
+          "martial arts",
+          "jiu jitsu",
+          "city incidents",
+          "safety and security"
+        ],
+        "Dialogue": {
+          "EggFestival": "Y'know? We don't have these wholesome gatherings back in the city! It's always nice to unwind and enjoy some egg-themed dishes.",
+          "SpiritsEve": "I think I like how this valley celebrates the Spirit Eve better than they do at the city. Back there, sometimes people get too wild and crazy with the parties. Yeah they can be fun, but most of the time a lot of incidents occur due to alcohol abuse. *Sigh* It's a mess, I tell ya.",
+          "FlowerDance": "*Burp* Oh boy! I think I had too much Jello! And... are those flower petals inside it?",
+          "Luau": "The Governor told me to enjoy the festival and leave him be for a while. I'll comply, but I still guarding him closely to the best of my abilities. Oh! That reminds me! I better check the soup before he takes a sip! Better to be safe than sorry!",
+          "MoonlightJellies": "*Sigh* I feel like it was a good idea to visit today. It feels 'just right' being here. You know what I mean?",
+          "Fair": "Man, I think the shooting game's rigged! I missed a bunch of shots! Nah! I just can't believe it! Oh well, at least the other games were fun enough for me to forget my miseries for a while.",
+          "FestivalOfIce": "Huh? Fishing? Nah! I'm hopeless with a fishing rod! So instead, I'll just watch the competition. Good luck out there.",
+          "FeastOfWinterStar": "The celebration of giving, huh? Well, I'm already content seeing people safe and sound, especially my clients! What else could a bodyguard ask for? Haha! Nah, for real. I'm just glad I get to enjoy the holidays in a safe and quiet valley.",
+          "RidgesideGathering": "The moment I arrived here, Jeric and the boys had me help them with their stall. Man, they really did procrastinate with that stuff! It was half-done just a few hours ago!",
+          "EmberOfResolutions": "Oh, hey [Player]. Happy new year to you. I rarely visit for this festival because of the cold and the hike. But the lighting of the bonfire always makes it feel worth it.",
+          "Indoor": "Ah, it's a great day. And it'll be greater if you kept your nose out of trouble, babe. Seriously, I love you. But you've got to be extra careful, okay?",
+          "Outdoor": "Jeric has been bugging me about wearing more 'fashionable' clothes. I can't get to flashy with my look, babe. Sheesh, I have to be lowkey.",
+          "Rain": "Hey, babe. I know it's a 'nice' day for farmers because it means less work for you and stuff. But please try using an umbrella. A sick you is just stressful. Oh but of course, I'm the best husband ever so I'd still take care of your sorry butt."
+        },
+        "HomeLocationBed": false,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}

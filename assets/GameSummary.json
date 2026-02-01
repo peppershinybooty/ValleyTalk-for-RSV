@@ -1,0 +1,216 @@
+{
+    "Changes": [
+      {
+        "Action": "EditData",
+        "Target": "ValleyTalk/GameSummary",
+        "TargetField": [ "Villagers", "Entries" ],
+        "Entries": {
+          "Alissa": {
+            "id": "Alissa",
+            "Name": "Alissa",
+            "Description": "A villager residing in Ridgeside Village who works hard as a farmer at the Nightingale Orchard, but has a secret passion for singing and songwriting. She is a marriage candidate."
+          },
+          "Anton": {
+            "id": "Anton",
+            "Name": "Anton",
+            "Description": "Paula's best friend and a former architect who is living with his family as he tries to get back onto his feet after leaving his job. He is an unlockable marriage candidate."
+          },
+          "Bert": {
+            "id": "Bert",
+            "Name": "Bert",
+            "Description": "A villager living in Ridgeside Village with his wife Olga and daughter Trinnie. A happy-go-lucky man who is always looking for ways to spoil his family, especially his daughter."
+          },
+          "Blair": {
+            "id": "Blair",
+            "Name": "Blair",
+            "Description": "A villager who lives with her mother Carmen and contributes towards their family fishing business. She is a marriage candidate."
+          },
+          "Bryle": {
+            "id": "Bryle",
+            "Name": "Bryle",
+            "Description": "The long-time friend of Jeric, who will sometimes come to Ridgeside Village to visit him. He works as a bodyguard for the Governor. He is an unlockable marriage candidate."
+          },
+          "Carmen": {
+            "id": "Carmen",
+            "Name": "Carmen",
+            "Description": "Blair's mother who lives with her in the Rivera Residence. They contribute towards their family fishing business together."
+          },
+          "Corine": {
+            "id": "Corine",
+            "Name": "Corine",
+            "Description": "A resident of Ridgeside Village and a waitress at Pika's Restaurant, though she dreams of one day finding her 'calling', whatever that may end up being. She is a marriage candidate."
+          },
+          "Daia": {
+            "id": "Daia",
+            "Name": "Daia",
+            "Description": "A mysterious ninja who is a member of the Cult of the Lady with the Red Tail. She is unusually sociable and flirty, considering her occupation. She is an unlockable marriage candidate."
+          },
+          "Ezekiel": {
+            "id": "Ezekiel",
+            "Name": "Ezekiel",
+            "Description": "A villager residing in Ridgeside Village. A veteran of the Ferngill Republic Army, he is known around town to be a bit grumpy and very proud of himself."
+          },
+          "Faye": {
+            "id": "Faye",
+            "Name": "Faye",
+            "Description": "A villager living in Ridgeside Village. She is currently a waitress at Pika's Restaurant, but aspires to become a self-made successful fashion designer. She is an unlockable marriage candidate."
+          },
+          "Flor": {
+            "id": "Flor",
+            "Name": "Flor",
+            "Description": "A villager residing in Ridgeside Village. She is a psychologist who is very passionate about her field but is not the greatest with social interactions, often fluctuating between very shy or rambling on about a topic she knows a lot about. She is a marriage candidate."
+          },
+          "Freddie": {
+            "id": "Freddie",
+            "Name": "Freddie",
+            "Description": "A villager residing in Ridgeside Village, living alongside his wife Lola at the Bladebane Residence."
+          },
+          "Ian": {
+            "id": "Ian",
+            "Name": "Ian",
+            "Description": "A villager residing in Ridgeside Village. He, along with Sean, works at Odd Jobs Services, where he does all sorts of labor for hire. He is a very hardworking and kind man who moved to Ridgeside a year or two before the farmer arrived in the valley. He is a marriage candidate."
+          },
+          "Irene": {
+            "id": "Irene",
+            "Name": "Irene",
+            "Description": "The personal chef of the Amethyne family, currently residing at the Amethyne Mansion in Ridgeside Village. She loves the art of cooking and is always on the look out for new recipes and ways to improve her skills. She is an unlockable marriage candidate."
+          },
+          "Jeric": {
+            "id": "Jeric",
+            "Name": "Jeric",
+            "Description": "A villager residing in Ridgeside Village who runs a seed shop from his home on Blooming Hill Farm. He is a marriage candidate."
+          },
+          "Jio": {
+            "id": "Jio",
+            "Name": "Jio",
+            "Description": "A mysterious ninja who is a member of the Cult of the Lady with the Red Tail, stationed at the Ninja House. He is an unlockable marriage candidate."
+          },
+          "June": {
+            "id": "June",
+            "Name": "June",
+            "Description": "A traveling pianist who plays in the Log Cabin Hotel lobby during Fall and Winter. During the warmer seasons, he leaves town to work in a different location. He is a marriage candidate."
+          },
+          "Kenneth": {
+            "id": "Kenneth",
+            "Name": "Kenneth",
+            "Description": "A villager residing in Ridgeside Village. He works as an electrician, and can often be found going around Ridgeside and Pelican Town, checking and fixing up electronics. He is a marriage candidate."
+          },
+          "Kiarra": {
+            "id": "Kiarra",
+            "Name": "Kiarra",
+            "Description": "Anton's younger sister who lives on the second floor of Heaps Convenience Store with her brothers Lorenzo and Anton. She is a marriage candidate."
+          },
+          "Kimpoi": {
+            "id": "Kimpoi",
+            "Name": "Kimpoi",
+            "Description": "Alissa's father who returned to the village after a long journey with his wife, Malaya. He lives at Nightingale Orchard."
+          },
+          "Kiwi": {
+            "id": "Kiwi",
+            "Name": "Kiwi",
+            "Description": "A member of the Cult of the Lady with the Red Tail who lives in a Junimo hut outside the Ninja House."
+          },
+          "Lenny": {
+            "id": "Lenny",
+            "Name": "Lenny",
+            "Description": "The administrative supervisor of Ridgeside Village, also mayor Lewis' older sister."
+          },
+          "Lola": {
+            "id": "Lola",
+            "Name": "Lola",
+            "Description": "A villager residing in Ridgeside Village, living alongside her husband Freddie at the Bladebane Residence. She is usually on the quiet side but easily becomes quite talkative when on the subject of adventures and monster slaying."
+          },
+          "Lorenzo": {
+            "id": "Lorenzo",
+            "Name": "Lorenzo",
+            "Description": "The oldest of the Legame siblings who owns Heaps Convenience Store. He lives on the second floor with his wife Shanice and younger siblings Anton and Kiarra."
+          },
+          "Maddie": {
+            "id": "Maddie",
+            "Name": "Maddie",
+            "Description": "A villager residing in Ridgeside Village who works as a lab assistant at the Water Research Facility & Laboratory. She is a marriage candidate."
+          },
+          "Maive": {
+            "id": "Maive",
+            "Name": "Maive",
+            "Description": "The matriarch of the Amethyne family residing at the Amethyne Mansion in Ridgeside Village."
+          },
+          "Malaya": {
+            "id": "Malaya",
+            "Name": "Malaya",
+            "Description": "Alissa's mother who returned to the village after a long journey with her husband, Kimpoi. She lives at Nightingale Orchard."
+          },
+          "MrAguar": {
+            "id": "MrAguar",
+            "Name": "Mr. Aguar",
+            "Description": "A villager residing in Ridgeside Village. He is a scientist who lives and works out of the Water Research Facility & Laboratory. He is more than what he seems however, as his basement contains a secret."
+          },
+          "Naomi": {
+            "id": "Naomi",
+            "Name": "Naomi",
+            "Description": "Shiro and Yuuma's mother who lives in the Kobayashi Residence."
+          },
+          "Olga": {
+            "id": "Olga",
+            "Name": "Olga",
+            "Description": "Alissa's aunt and Bert's wife, Trinnie's mother. She helped raise Alissa and lives at the Liden Residence."
+          },
+          "Paula": {
+            "id": "Paula",
+            "Name": "Paula",
+            "Description": "A medic who works at the Ridgeside Clinic and is a good friend of Anton. She is an unlockable marriage candidate."
+          },
+          "Philip": {
+            "id": "Philip",
+            "Name": "Philip",
+            "Description": "A villager residing in Ridgeside Village. He is a physical therapist who resides at the Log Cabin Hotel while on assignment. He is passionate about his work but also has a secret geeky side. He is a marriage candidate."
+          },
+          "Pika": {
+            "id": "Pika",
+            "Name": "Pika",
+            "Description": "The owner and chef of Pika's Restaurant."
+          },
+          "Richard": {
+            "id": "Richard",
+            "Name": "Richard",
+            "Description": "The owner and operator of the Log Cabin Hotel. Ysabelle's grandfather."
+          },
+          "Sean": {
+            "id": "Sean",
+            "Name": "Sean",
+            "Description": "A villager residing in Ridgeside Village who works with Ian at Odd Jobs Services. He is a marriage candidate."
+          },
+          "Shanice": {
+            "id": "Shanice",
+            "Name": "Shanice",
+            "Description": "Lorenzo's wife who lives on the second floor of Heaps Convenience Store with Lorenzo, Anton, and Kiarra."
+          },
+          "Shiro": {
+            "id": "Shiro",
+            "Name": "Shiro",
+            "Description": "A villager residing in Ridgeside Village after having received a major injury during his military service that left him physically disabled. He is a marriage candidate."
+          },
+          "Sonny": {
+            "id": "Sonny",
+            "Name": "Sonny",
+            "Description": "A butler working for the Amethyne family, currently residing in Ridgeside Village. He is a loyal and dutiful worker, and maintains his own garden when not attending to the Amethynes' needs."
+          },
+          "Torts": {
+            "id": "Torts",
+            "Name": "Torts",
+            "Description": "A unique villager who resides in the Torts Residence."
+          },
+          "Ysabelle": {
+            "id": "Ysabelle",
+            "Name": "Ysabelle",
+            "Description": "A former ballerina who now finds herself working as a receptionist at the Log Cabin Hotel. She is a marriage candidate."
+          },
+          "Zayne": {
+            "id": "Zayne",
+            "Name": "Zayne",
+            "Description": "A member of the Amethyne family who sometimes comes to visit the Amethyne Mansion in Ridgeside Village. He is currently an ambassador representing the Ferngill Republic and is lined up as the future head of the Amethyne family. He is an unlockable marriage candidate."
+          }
+        }
+      }
+    ]
+}

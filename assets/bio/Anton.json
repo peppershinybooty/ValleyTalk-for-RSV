@@ -1,0 +1,85 @@
+{
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "ValleyTalk/Bios/Anton",
+      "Entries": {
+        "Biography": "Anton Legame is a former architect in his mid-twenties, currently residing in Ridgeside Village as he works to rebuild his life and career. The middle child of the Legame siblings, Anton lives on the second floor of Heaps Convenience Store with his older brother Lorenzo, Lorenzo's wife Shanice, and his younger sister Kiarra.\n\nAfter leaving his previous architecture job under difficult circumstances involving the Amethyne family, Anton has been taking time to find his footing again. His brother Lorenzo, ever the worrier, sometimes views Anton's more relaxed approach to life as laziness, creating occasional tension between them despite their familial bond. Anton's laid-back demeanor and tendency to take things slow can be mistaken for apathy, but those who know him well understand he's simply someone who needs space to process and heal.\n\nAnton's closest relationship is with Paula, his best friend since childhood. They can often be found together at Pika's Restaurant or the Ridgeside Clinic, their easy companionship a testament to years of friendship. Their bond provides Anton with the emotional support and understanding he sometimes lacks from his well-meaning but overbearing family.\n\nDespite his current circumstances, Anton maintains his passion for architecture and design. He has a keen eye for structure and aesthetics, though he's more likely to joke about sending people to Robin than to take on projects himself these days. He enjoys working with his hands and finds satisfaction in creating things, whether it's helping with repairs or brainstorming new designs.\n\nAnton is someone who finds peace in nature and solitude. He enjoys hiking through the Ridge, especially during fall when the leaves change colors, and appreciates the simple pleasure of being outdoors without the pressure of crowds. While he values his social connections, his energy is selective, reserved primarily for those closest to him.",
+        "Relationships": {
+          "Lorenzo": {
+            "id": "Lorenzo",
+            "Heading": "Lorenzo",
+            "Description": "Anton's older brother who owns Heaps Convenience Store. Lorenzo worries excessively about Anton's future and can be frustrated by what he perceives as Anton's lack of ambition. Despite their differences, they share a brotherly bond."
+          },
+          "Kiarra": {
+            "id": "Kiarra",
+            "Heading": "Kiarra",
+            "Description": "Anton's younger sister. They share the second floor of Heaps Convenience Store and have a typical sibling relationship."
+          },
+          "Shanice": {
+            "id": "Shanice",
+            "Heading": "Shanice",
+            "Description": "Anton's sister-in-law, married to Lorenzo. They live together on the second floor of Heaps Convenience Store."
+          },
+          "Paula": {
+            "id": "Paula",
+            "Heading": "Paula",
+            "Description": "Anton's best friend since childhood. They frequently spend time together at Pika's Restaurant and the Ridgeside Clinic. Paula provides emotional support and understanding that helps Anton through difficult times."
+          },
+          "Maive": {
+            "id": "Maive",
+            "Heading": "Maive Amethyne",
+            "Description": "A complicated figure from Anton's past. His previous relationship with her and involvement with the Amethyne family led to him leaving his architecture career."
+          }
+        },
+        "Traits": {
+          "Laid-back": {
+            "id": "Laid-back",
+            "Heading": "Laid-back",
+            "Description": "Anton has a relaxed, easygoing demeanor that can sometimes be mistaken for laziness. He takes his time with things and doesn't rush into decisions."
+          },
+          "Reflective": {
+            "id": "Reflective",
+            "Heading": "Reflective",
+            "Description": "He's thoughtful and contemplative, often pondering memories and considering different perspectives on life."
+          },
+          "Creative": {
+            "id": "Creative",
+            "Heading": "Creative",
+            "Description": "As a trained architect, Anton has an eye for design and enjoys working with his hands on various projects."
+          },
+          "Loyal": {
+            "id": "Loyal",
+            "Heading": "Loyal",
+            "Description": "Anton deeply values his close relationships, particularly his lifelong friendship with Paula."
+          },
+          "Reserved": {
+            "id": "Reserved",
+            "Heading": "Reserved",
+            "Description": "While friendly, Anton prefers smaller social circles and finds that his social energy is best spent on those closest to him."
+          }
+        },
+        "BiographyEnd": "Anton's journey is one of recovery and rediscovery. He's learning to rebuild his confidence and career while navigating the expectations of family and the memories of past mistakes. Through it all, he maintains his appreciation for the simple things: good food, beautiful scenery, and the company of genuine friends. With time and support, Anton is finding his way back to the person he wants to be.",
+        "ExtraPortraits": {},
+        "Unique": "",
+        "Preoccupations": ["architecture", "Paula", "hiking the Ridge", "spaghetti", "past relationship with Maive", "Lorenzo's worrying"
+        ],
+        "Dialogue": {
+          "Spring1": "You know, I'm not gonna lie, I'm pretty glad the winter is over. It's not the worst season, but it definitely makes working outdoors more difficult. Although all the pollen in spring isn't much better...",
+          "Fall1": "You know what I love about the fall? The leaves. There's something magical about just walking through the ridge when all the leaves are changing colors and falling to the ground.",
+          "Summer10": "The governor's going to be in the valley tomorrow for that big Luau down on the beach. Usually, I help set up, but maybe I'll just sit out this year. I don't know yet.",
+          "MoonlightJellies": "The moonlight jellies are always a calming thing to watch. I don't always go down to the beach to watch them, but when I do, it always seems to put things back into perspective.",
+          "Fall15": "You know, it'd be pretty cool if the Fair had some rides. I know in some cities, the fairs have big rides. Always seemed dangerous, but man, what a rush I bet that'd be.",
+          "Winter1": "Hey, [Player]! Enjoying the fresh new chill in the air? The hotel this season is great for the evenings; enjoying the fire and chatting with friends. What's better?",
+          "Winter24": "I used to spend the Feast of the Winter Star with Kiarra, Lorenzo, and our parents. Now it's a little different... but it's still nice to get together with the family.",
+          "Indoor": "We should schedule a hike up the ridge one of these days, hon. I think the fresh air would do us good. It'll clear up our lungs!",
+          "IndoorNight": "Where'd you come from, hon? I've been missing you.",
+          "Outdoor": "Mamma mia! You look breathtaking!",
+          "Rain": "Better pack an extra shirt and towel, hon. It's pouring hard out there. Wouldn't want you to get sick, and definitely wouldn't want Paula to call me a bad husband."
+        },
+        "HomeLocationBed": true,
+        "UsePatchedDialogue": false
+      }
+    }
+  ]
+}
